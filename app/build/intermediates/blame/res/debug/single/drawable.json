@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\Cascade_Master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\Cascade_Master1\\app\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\Cascade_Master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\Cascade_Master1\\app\\src\\main\\res\\drawable\\wheel_val.xml"
+    }
+]
